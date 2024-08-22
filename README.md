@@ -1,0 +1,2 @@
+# Script-do-Banco-de-dados-Criado-para-o-Dasafio-de-Porjeto-do-Bootcamp-da-DIO---Sorveteria-Paraiso-G.
+Este BD feoi criado ara servir com base para o desafio de projeto da DIO. Ele foi criado porque o BD Company sofreu poblemas ao inserir os script e então eu achei necessário criar um outro para exercitar oq foi pedido. Criar o BD no MYSQL e depois integrei com o power BI e realizei dois Gráficos de exemplo para demonstrar uma análise. 
